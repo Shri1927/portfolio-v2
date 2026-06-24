@@ -1,0 +1,110 @@
+{
+  "Sidebar": {
+    "about": "About",
+    "projects": "Projects"
+  },
+  "Hero": {
+    "title": "Hi, I'm Shrishail",
+    "tagline": "Software Engineer",
+    "p1": "Full-Stack Developer specialized in Java, Node.js, React, Next.js, and more. Building scalable systems and AI integrations.",
+    "p2": "",
+    "p3": "",
+    "p4": "Looking for a developer to build your project?"
+  },
+  "About": {
+    "section": "About",
+    "p1": "Software Engineer focused on building scalable systems and AI integrations. I specialize in full-stack development with Java, Node.js, React, and Next.js, creating seamless digital experiences that align with your goals.",
+    "p2": "I craft user-friendly interfaces, optimize system performance, and build robust backend architectures. I'm passionate about blockchain, AI, and modern web technologies, and I love solving complex problems with clean, efficient code.",
+    "p3": "My technical stack includes Java, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, PostgreSQL, MySQL, MongoDB, and more. I also work with blockchain (Solidity, Polygon), cloud platforms (Google Cloud), and AI integrations.",
+    "links": "Links"
+  },
+  "Projects": {
+    "section": "Projects",
+    "gallery": "Full Gallery",
+
+    "desc1": "AI Video Generation Platform — engineered an end-to-end AI video pipeline: user script → Google Text-to-Speech → MP3 (Cloudinary) → automated video rendering (Remotion) — capable of producing production-ready videos with zero manual intervention. Implemented secure background job processing via Inngest and Clerk authentication; integrated PayPal for monetization — full SaaS architecture from auth to payments.",
+    "modal1": "AI Video Generation Platform — engineered an end-to-end AI video pipeline: user script → Google Text-to-Speech → MP3 (Cloudinary) → automated video rendering (Remotion) — capable of producing production-ready videos with zero manual intervention. Implemented secure background job processing via Inngest and Clerk authentication; integrated PayPal for monetization — full SaaS architecture from auth to payments. Designed for reliability and scale; decoupled rendering pipeline handles concurrent video generation jobs without blocking the main API; verified for fault-tolerance with async logic via Inngest.",
+
+    "desc2": "Blockchain Certificate Verification — built a tamper-proof digital certificate platform on Polygon; institutions mint certificates as on-chain records via smart contracts; verifiers confirm authenticity instant via unique hash lookup — eliminating forgery without a central authority. Implemented certificate ID validation with O(1) on-chain lookup, ensuring instant verification even at scale across multiple institutions.",
+    "modal2": "Blockchain Certificate Verification — built a tamper-proof digital certificate platform on Polygon; institutions mint certificates as on-chain records via smart contracts; verifiers confirm authenticity instant via unique hash lookup — eliminating forgery without a central authority. Implemented certificate ID validation with O(1) on-chain lookup, ensuring instant verification even at scale across multiple institutions.",
+
+    "desc3": "Real-Time Language Exchange Platform — built a real-time language learning platform supporting 1-on-1 and group video calls, screen sharing, and session recording — powered by Stream API for production-grade video infrastructure. Implemented JWT authentication, protected REST APIs, and WebSocket-based live messaging with typing indicators and emoji reactions; designed MongoDB schema for user sessions and conversation history.",
+    "modal3": "Real-Time Language Exchange Platform — built a real-time language learning platform supporting 1-on-1 and group video calls, screen sharing, and session recording — powered by Stream API for production-grade video infrastructure. Implemented JWT authentication, protected REST APIs, and WebSocket-based live messaging with typing indicators and emoji reactions; designed MongoDB schema for user sessions and conversation history."
+  },
+  "Experience": {
+    "section": "Experience",
+
+    "exp1": "Software Engineering Intern",
+    "role1": "Two Elephants Technologies LLP",
+    "date1": "2026 - Present",
+    "loca1": "Solapur, India",
+    "desc1": "Shipped 3+ product features collaborating across backend, frontend, and QA — improved UI responsiveness and fixed user-reported bugs by ~40% through systematic debugging, unit testing, and performance fixes; participated in peer code reviews to maintain code quality. Contributed to Agile sprints, daily standups, and sprint retrospectives; proposed a UX improvement in brainstorming sessions that was later adopted in production and shaped 2 major product roadmap decisions. Diagnosed and resolved a critical authentication edge case that was blocking ~15% of new user sign-ups.",
+
+    "exp2": "Full-Stack Apprentice",
+    "role2": "Manasvi Technology",
+    "date2": "Jan 2026 - Mar 2026",
+    "loca2": "Remote",
+    "desc2": "Built a full-stack SaaS platform end-to-end: role-based authentication (JWT), search, admin dashboards, and a responsive UI using React, Shadcn UI, and CSS — delivered within a 3-month timeline. Owned the SQL/NoSQL database schema design and API layer using Node.js and Express.js; wrote optimized SQL queries for reporting and search features; implemented input validation and error handling for production stability."
+  },
+  "Certification": {
+    "section": "Certifications",
+    "certificate": "Certificate",
+    "certif1": "ESD Program",
+    "school1": "Zensar Technologies",
+    "date1": "",
+    "desc1": "Completed the ESD (Employability Skill Development) program, focusing on software engineering skills and professional development.",
+    "certif2": "Java Programming",
+    "school2": "Giri's TechHub",
+    "date2": "",
+    "desc2": "Completed Java programming certification, gaining expertise in core Java concepts and object-oriented programming.",
+    "certif3": "Database Management Systems",
+    "school3": "NPTEL",
+    "date3": "",
+    "desc3": "Completed Database Management Systems certification from NPTEL, covering SQL, database design, and management."
+  },
+  "Contact": {
+    "section": "Contact",
+    "p1": "Have an idea to discuss? Shoot me an email if you want to connect! You can also find me on",
+    "p2": "if that's more your speed.",
+    "p3": "Set up a meeting"
+  },
+  "Footer": {
+    "copyright": "All rights reserved.",
+    "privacy": "Privacy"
+  },
+  "Privacy": {
+    "header": "Privacy",
+    "date1": "Effective Date:",
+    "date2": "June 24, 2026",
+    "introTitle": "Introduction",
+    "introWelcome": "Welcome to",
+    "introBody": "Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website. Please read this policy carefully to understand our practices regarding your personal data and how we handle it.",
+    "infoTitle": "Information We Collect",
+    "personalTitle": "Personal Information",
+    "personalBody": "We do not collect personal information unless you choose to contact us. If you send us an email, we may collect the following information:",
+    "personalList1": "Your email address",
+    "personalList2": "Any other details you include in your email",
+    "nonPersonalTitle": "Non-Personal Information",
+    "nonPersonalBody": "We do not automatically collect non-personal information such as IP addresses, browser details, or usage data.",
+    "usageTitle": "How We Use Your Information",
+    "usageBody": "If you contact us via email, we use the information you provide solely to:",
+    "usageList1": "Respond to your inquiries.",
+    "usageList2": "Provide any requested assistance or information.",
+    "usageNote": "We do not use your information for marketing purposes or share it with third parties.",
+    "sharingTitle": "Sharing Your Information",
+    "sharingBody": "We do not sell, rent, or share your personal data with any third parties. Your information is used exclusively for responding to your inquiries.",
+    "cookiesTitle": "Cookies and Tracking Technologies",
+    "cookiesBody": "We do not use cookies or other tracking technologies on our website.",
+    "retentionTitle": "Data Retention",
+    "retentionBody": "We retain the information you provide in your emails only as long as necessary to respond to your inquiries. Once the information is no longer needed, it is securely deleted.",
+    "rightsTitle": "Your Rights",
+    "rightsBody": "You have the right to:",
+    "rightsList1": "Request access to any information you have provided to us.",
+    "rightsList2": "Request the deletion of your information from our records.",
+    "changesTitle": "Changes to This Privacy Policy",
+    "changesBody": "We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated revision date.",
+    "contactTitle": "Contact Us",
+    "contactBody": "If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:",
+    "contactEmail": "shrishailbidave045@gmail.com"
+  }
+}
