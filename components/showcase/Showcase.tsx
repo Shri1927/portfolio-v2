@@ -63,6 +63,15 @@ export const Showcase = () => {
       desc: t("desc6"),
       modal: <>{t("modal6")}</>,
     },
+    {
+      title: "WanderLust",
+      img: "/gallery/wanderlust.webp",
+      code: "",
+      link: "",
+      tech: ["React", "Node.js", "Express.js", "MongoDB"],
+      desc: t("desc7"),
+      modal: <>{t("modal7")}</>,
+    },
   ];
 
   return (
@@ -77,7 +86,7 @@ export const Showcase = () => {
       </div>
 
       <div className={styles.projects}>
-        {projects.map((project) => {
+        {projects.slice(0, 4).map((project) => {
           return <ShowcaseItem key={project.title} {...project} />;
         })}
       </div>
