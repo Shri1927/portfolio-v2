@@ -10,13 +10,31 @@ export const Showcase = () => {
 
   const projects = [
     {
+      title: "CCTV Analytics System",
+      img: "/gallery/cctv.webp",
+      code: "",
+      link: "",
+      tech: ["Python", "Streamlit", "OpenCV", "YOLOv8"],
+      desc: t("desc1"),
+      modal: <>{t("modal1")}</>,
+    },
+    {
+      title: "Personal Loan Origination System (LOS)",
+      img: "/gallery/vidgen.webp",
+      code: "",
+      link: "",
+      tech: ["Java Spring Boot", "React", "PostgreSQL", "Redis", "Kafka"],
+      desc: t("desc2"),
+      modal: <>{t("modal2")}</>,
+    },
+    {
       title: "VidGen",
       img: "/gallery/vidgen.webp",
       code: "",
       link: "",
       tech: ["Next.js", "Convex", "Inngest", "Clerk", "Cloudinary", "PayPal"],
-      desc: t("desc1"),
-      modal: <>{t("modal1")}</>,
+      desc: t("desc3"),
+      modal: <>{t("modal3")}</>,
     },
     {
       title: "CertiFlex",
@@ -24,8 +42,8 @@ export const Showcase = () => {
       code: "",
       link: "",
       tech: ["Solidity", "Polygon", "HTML", "CSS", "JavaScript"],
-      desc: t("desc2"),
-      modal: <>{t("modal2")}</>,
+      desc: t("desc4"),
+      modal: <>{t("modal4")}</>,
     },
     {
       title: "FluentFriends",
@@ -33,8 +51,17 @@ export const Showcase = () => {
       code: "",
       link: "",
       tech: ["React", "Node.js", "Express.js", "MongoDB", "Stream API", "WebSockets"],
-      desc: t("desc3"),
-      modal: <>{t("modal3")}</>,
+      desc: t("desc5"),
+      modal: <>{t("modal5")}</>,
+    },
+    {
+      title: "AI Code Reviewer",
+      img: "/gallery/codereviewr.webp",
+      code: "",
+      link: "",
+      tech: ["React", "Express.js", "Tailwind CSS", "Google Gemini AI"],
+      desc: t("desc6"),
+      modal: <>{t("modal6")}</>,
     },
   ];
 
