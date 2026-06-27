@@ -12,7 +12,7 @@ export const Showcase = () => {
     {
       title: "CCTV Analytics System",
       img: "/gallery/cctv.webp",
-      code: "",
+      code: "https://github.com/Shri1927/CCTV.git",
       link: "",
       tech: ["Python", "Streamlit", "OpenCV", "YOLOv8"],
       desc: t("desc1"),
@@ -21,7 +21,7 @@ export const Showcase = () => {
     {
       title: "Personal Loan Origination System (LOS)",
       img: "/gallery/vidgen.webp",
-      code: "",
+      code: "https://github.com/Shri1927/PL.git",
       link: "",
       tech: ["Java Spring Boot", "React", "PostgreSQL", "Redis", "Kafka"],
       desc: t("desc2"),
@@ -30,7 +30,7 @@ export const Showcase = () => {
     {
       title: "VidGen",
       img: "/gallery/vidgen.webp",
-      code: "",
+      code: "https://github.com/Shri1927/Ai-shorts-Gen-V2.git",
       link: "",
       tech: ["Next.js", "Convex", "Inngest", "Clerk", "Cloudinary", "PayPal"],
       desc: t("desc3"),
@@ -39,7 +39,7 @@ export const Showcase = () => {
     {
       title: "CertiFlex",
       img: "/gallery/certiflex.webp",
-      code: "",
+      code: "https://github.com/Shri1927/final-year-project.git",
       link: "",
       tech: ["Solidity", "Polygon", "HTML", "CSS", "JavaScript"],
       desc: t("desc4"),
@@ -48,8 +48,8 @@ export const Showcase = () => {
     {
       title: "FluentFriends",
       img: "/gallery/fluentfriends.webp",
-      code: "",
-      link: "",
+      code: "https://github.com/Shri1927/Zoomeet-video-call.git",
+      link: "https://fluentfreinds.onrender.com/",
       tech: ["React", "Node.js", "Express.js", "MongoDB", "Stream API", "WebSockets"],
       desc: t("desc5"),
       modal: <>{t("modal5")}</>,
@@ -57,8 +57,8 @@ export const Showcase = () => {
     {
       title: "AI Code Reviewer",
       img: "/gallery/codereviewr.webp",
-      code: "",
-      link: "",
+      code: "https://github.com/Shri1927/CodeReviewer.git",
+      link: "https://code-reviewer-sigma-two.vercel.app/",
       tech: ["React", "Express.js", "Tailwind CSS", "Google Gemini AI"],
       desc: t("desc6"),
       modal: <>{t("modal6")}</>,
@@ -66,7 +66,7 @@ export const Showcase = () => {
     {
       title: "WanderLust",
       img: "/gallery/wanderlust.webp",
-      code: "",
+      code: "https://github.com/Shri1927/WanderLust.git",
       link: "",
       tech: ["React", "Node.js", "Express.js", "MongoDB"],
       desc: t("desc7"),
