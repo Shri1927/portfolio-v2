@@ -61,7 +61,6 @@ const Gallery = () => {
 
 const projects = [
   {
-    cat: "💜, App, Python",
     title: "CCTV Analytics System",
     img: "/gallery/cctv.webp",
     code: "",
@@ -74,9 +73,8 @@ const projects = [
     ),
   },
   {
-    cat: "💜, App, Java",
     title: "Personal Loan Origination System (LOS)",
-    img: "/gallery/vidgen.webp",
+    img: "/gallery/pl.webp",
     code: "",
     link: "",
     tech: ["Java Spring Boot", "React", "PostgreSQL", "Redis", "Kafka"],
@@ -87,7 +85,6 @@ const projects = [
     ),
   },
   {
-    cat: "💜, App, Next",
     title: "VidGen",
     img: "/gallery/vidgen.webp",
     code: "",
@@ -100,7 +97,6 @@ const projects = [
     ),
   },
   {
-    cat: "💜, App, Solidity",
     title: "CertiFlex",
     img: "/gallery/certiflex.webp",
     code: "",
@@ -113,7 +109,6 @@ const projects = [
     ),
   },
   {
-    cat: "💜, App, React",
     title: "FluentFriends",
     img: "/gallery/fluentfriends.webp",
     code: "",
@@ -126,7 +121,6 @@ const projects = [
     ),
   },
   {
-    cat: "💜, App, React",
     title: "AI Code Reviewer",
     img: "/gallery/codereviewr.webp",
     code: "",
@@ -139,7 +133,6 @@ const projects = [
     ),
   },
   {
-    cat: "💜, App, React",
     title: "WanderLust",
     img: "/gallery/wanderlust.webp",
     code: "",
