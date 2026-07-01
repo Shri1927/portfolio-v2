@@ -20,7 +20,7 @@ export const Showcase = () => {
     },
     {
       title: "Personal Loan Origination System (LOS)",
-      img: "/gallery/vidgen.webp",
+      img: "/gallery/pl.webp",
       code: "https://github.com/Shri1927/PL.git",
       link: "",
       tech: ["Java Spring Boot", "React", "PostgreSQL", "Redis", "Kafka"],
