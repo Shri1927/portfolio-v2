@@ -63,7 +63,7 @@ const projects = [
   {
     title: "CCTV Analytics System",
     img: "/gallery/cctv.webp",
-    code: "",
+    code: "https://github.com/Shri1927/CCTV.git",
     link: "",
     tech: ["Python", "Streamlit", "OpenCV", "YOLOv8"],
     modal: (
@@ -75,7 +75,7 @@ const projects = [
   {
     title: "Personal Loan Origination System (LOS)",
     img: "/gallery/pl.webp",
-    code: "",
+    code: "https://github.com/Shri1927/PL.git",
     link: "",
     tech: ["Java Spring Boot", "React", "PostgreSQL", "Redis", "Kafka"],
     modal: (
@@ -87,7 +87,7 @@ const projects = [
   {
     title: "VidGen",
     img: "/gallery/vidgen.webp",
-    code: "",
+    code: "https://github.com/Shri1927/Ai-shorts-Gen-V2.git",
     link: "",
     tech: ["Next.js", "Convex", "Inngest", "Clerk", "Cloudinary", "PayPal"],
     modal: (
@@ -99,7 +99,7 @@ const projects = [
   {
     title: "CertiFlex",
     img: "/gallery/certiflex.webp",
-    code: "",
+    code: "https://github.com/Shri1927/final-year-project.git",
     link: "",
     tech: ["Solidity", "Polygon", "HTML", "CSS", "JavaScript"],
     modal: (
@@ -111,8 +111,8 @@ const projects = [
   {
     title: "FluentFriends",
     img: "/gallery/fluentfriends.webp",
-    code: "",
-    link: "",
+    code: "https://github.com/Shri1927/Zoomeet-video-call.git",
+    link: "https://fluentfreinds.onrender.com/",
     tech: ["React", "Node.js", "Express.js", "MongoDB", "Stream API", "WebSockets"],
     modal: (
       <>
@@ -123,8 +123,8 @@ const projects = [
   {
     title: "AI Code Reviewer",
     img: "/gallery/codereviewr.webp",
-    code: "",
-    link: "",
+    code: "https://github.com/Shri1927/CodeReviewer.git",
+    link: "https://code-reviewer-sigma-two.vercel.app/",
     tech: ["React", "Express.js", "Tailwind CSS", "Google Gemini AI"],
     modal: (
       <>
@@ -135,7 +135,7 @@ const projects = [
   {
     title: "WanderLust",
     img: "/gallery/wanderlust.webp",
-    code: "",
+    code: "https://github.com/Shri1927/WanderLust.git",
     link: "",
     tech: ["React", "Node.js", "Express.js", "MongoDB"],
     modal: (
