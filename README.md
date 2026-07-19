@@ -16,8 +16,6 @@
 
 **`[EN]`** This portfolio is a showcase of my skills, built with React and powered by Next.js. I've leveraged TypeScript to ensure robust code quality and maintainability. A styling system crafted with Sass brings a polished visual identity to life. And, with Framer Motion and Anime.js, I've added a touch of dynamism with smooth animations and transitions, creating an engaging user experience.
 
-**`[FR]`** Ce portfolio est une vitrine de mes compétences, conçu avec React et propulsé par Next.js. J'ai mis à profit TypeScript pour assurer une qualité de code robuste et maintenable. Un système de styling conçu avec Sass donne vie à une identité visuelle soignée. Et, avec Framer Motion et Anime.js, j'ai ajouté une touche de dynamisme avec des animations et des transitions fluides, créant une expérience utilisateur engageante.
-
 ## <br/> <a name="tech-stack">⚙️ Tech Stack</a>
 
 - [**React**](https://react.dev/reference/react) is a JavaScript library for building user interfaces, developed by Facebook. It allows developers to create reusable UI components that manage their own state, leading to more efficient and predictable code. It is widely used for developing single-page applications (SPAs) due to its virtual DOM that improves performance and ease of maintenance.
