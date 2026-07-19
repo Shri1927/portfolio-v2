@@ -1,7 +1,8 @@
 {
   "Sidebar": {
     "about": "About",
-    "projects": "Projects"
+    "projects": "Projects",
+    "blog": "Blog"
   },
   "Hero": {
     "title": "Hi, I'm Shrishail",
@@ -72,6 +73,14 @@
     "p1": "Have an idea to discuss? Shoot me an email if you want to connect! You can also find me on",
     "p2": "if that's more your speed.",
     "p3": "Set up a meeting"
+  },
+  "Blog": {
+    "section": "Blog",
+    "tutorTag": "Interactive Course",
+    "tutorTitle": "TypeScript Tutor: Interactive Phase 1 & 2",
+    "tutorDesc": "An interactive, phase-based course to master TypeScript foundations, strict mode type safety, unions, and backend Node.js/Express development with Zod validation. Complete with quizzes, live code comparison tabs, and coding playgrounds.",
+    "readMore": "Start Learning",
+    "tech": ["TypeScript", "Strict Mode", "Zod", "Express", "Interactive Playground"]
   },
   "Footer": {
     "copyright": "All rights reserved."

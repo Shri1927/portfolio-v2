@@ -73,6 +73,22 @@ export const SideBar = () => {
         <motion.div
           initial={{ x: -70 }}
           animate={{ x: 0 }}
+          transition={{ duration: 0.5, delay: 0.25 }}>
+          <Link
+            className={`${styles.sideBarLink} ${
+              selected === "blog" ? styles.selected : ""
+            }`}
+            href="/#blog"
+            onClick={() => setSelected("blog")}
+            aria-label="Blog"
+            >
+            {t("blog")}
+          </Link>
+        </motion.div>
+
+        <motion.div
+          initial={{ x: -70 }}
+          animate={{ x: 0 }}
           transition={{ duration: 0.5, delay: 0.3 }}>
           <Link
             className={`${styles.sideBarLink} ${

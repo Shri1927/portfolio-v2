@@ -4,6 +4,7 @@ import { SideBar } from '@/components/nav/SideBar';
 import { Hero } from '@/components/hero/Hero';
 import { About } from '@/components/about/About';
 import { Showcase } from '@/components/showcase/Showcase';
+import { Blog } from '@/components/blog/Blog';
 import { Experience } from '@/components/experience/Experience';
 import { Certification } from '@/components/certification/Certification';
 import { Contact } from '@/components/contact/Contact';
@@ -20,6 +21,7 @@ const Home = () => {
           <Hero />
           <About />
           <Showcase />
+          <Blog />
           <Experience />
           <Certification />
           <Contact />
