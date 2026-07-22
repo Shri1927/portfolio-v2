@@ -38,7 +38,7 @@ export const Hero = () => {
         </div>
         <div className={styles.profileImageWrapper}>
           <Image
-            src="/profile1.png"
+            src="/profile.png"
             alt="Shrishail's Profile"
             width={400}
             height={400}
