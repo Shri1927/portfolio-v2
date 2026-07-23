@@ -1,3 +1,4 @@
+"use client";
 import { useState, useEffect } from "react";
 import { AiOutlineArrowLeft, AiOutlineArrowUp } from "react-icons/ai";
 import { TransitionLink } from "../utils/TransitionLink";
